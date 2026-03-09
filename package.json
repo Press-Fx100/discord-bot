@@ -1,0 +1,17 @@
+{
+  "name": "free-discord-bot",
+  "version": "1.0.0",
+  "description": "Simple Discord bot for free hosting",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "express": "^4.21.2"
+  }
+}
